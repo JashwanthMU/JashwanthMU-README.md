@@ -12,7 +12,13 @@
 
 ###
 
-<p align="left">Hello, I like Linux🐧 kernel and exploring to automate things securely.<br><br>#Go Above & Beyond</p>
+<p align="left">Cloud Security Engineer (Student) | Building ML-Powered DevSecOps Tools
+
+I am a Cyber Security student specializing in Cloud Security and DevSecOps, with hands-on experience training, tuning, and deploying machine learning models for security automation and infrastructure.
+
+I build security tools where machine learning isn't just a feature,it's the decision engine. My models are trained on real breach patterns, cross-validated for precision, and deployed as CI/CD gates that decide whether code ships or gets blocked.
+
+I sit at the intersection of three disciplines: cloud infrastructure engineering, security automation, and applied machine learning.<br><br>#Go Above & Beyond</p>
 
 ###
 
